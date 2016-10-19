@@ -1,7 +1,8 @@
 /*
   Nerys Jimenez Pichardo
   The College of Saint Rose
-  CSC 432, Lab 2
+  Operating Systems
+  Spring 2016
 
   forksyr.c program uses the fork() system call to generate
   child process using the Collatz conjectures sequence.
